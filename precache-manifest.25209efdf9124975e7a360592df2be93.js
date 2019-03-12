@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/sentiment-analysis-tool/static/css/main.5741aaa7.chunk.css"
   },
   {
-    "revision": "4ba4c80d3685580b5db323739ea384a1",
+    "revision": "cc3edb8326565cfab99fe344b05a9b5d",
     "url": "/sentiment-analysis-tool/index.html"
   }
 ];

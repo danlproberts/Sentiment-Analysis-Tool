@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sentiment-analysis-tool/precache-manifest.a3cd39f86c5710c78ed731b04f6a50a2.js"
+  "/sentiment-analysis-tool/precache-manifest.25209efdf9124975e7a360592df2be93.js"
 );
 
 workbox.clientsClaim();
