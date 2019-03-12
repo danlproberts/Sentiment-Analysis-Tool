@@ -1,14 +1,14 @@
 {
-  "main.css": "/sentiment-analysis-tool/static/css/main.5741aaa7.chunk.css",
-  "main.js": "/sentiment-analysis-tool/static/js/main.02e6034a.chunk.js",
-  "main.js.map": "/sentiment-analysis-tool/static/js/main.02e6034a.chunk.js.map",
-  "runtime~main.js": "/sentiment-analysis-tool/static/js/runtime~main.59e201d7.js",
-  "runtime~main.js.map": "/sentiment-analysis-tool/static/js/runtime~main.59e201d7.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/sentiment-analysis-tool/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/sentiment-analysis-tool/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/sentiment-analysis-tool/index.html",
-  "precache-manifest.25209efdf9124975e7a360592df2be93.js": "/sentiment-analysis-tool/precache-manifest.25209efdf9124975e7a360592df2be93.js",
-  "service-worker.js": "/sentiment-analysis-tool/service-worker.js",
-  "static/css/main.5741aaa7.chunk.css.map": "/sentiment-analysis-tool/static/css/main.5741aaa7.chunk.css.map",
-  "static/media/logo.svg": "/sentiment-analysis-tool/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.5741aaa7.chunk.css",
+  "main.js": "/static/js/main.7cf00638.chunk.js",
+  "main.js.map": "/static/js/main.7cf00638.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.c0f8ca2190c9be23d5aade53e53b37c2.js": "/precache-manifest.c0f8ca2190c9be23d5aade53e53b37c2.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.5741aaa7.chunk.css.map": "/static/css/main.5741aaa7.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
